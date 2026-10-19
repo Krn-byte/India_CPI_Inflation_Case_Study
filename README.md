@@ -121,7 +121,7 @@ The analysis addresses five key business questions:
 
 ## Data Sources
 
-- **CPI Dataset:** Government of India website, as specified in the original case-study brief.
+- **CPI Dataset:** Government of India website.
 - **Crude Oil Price Data:** IndexMundi, as referenced in the project workbook.
 
  ## Skills Demonstrated
