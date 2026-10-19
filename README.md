@@ -118,7 +118,6 @@ The analysis addresses five key business questions:
 |---|---|
 | `README.md` | Project overview, objectives, methodology, and findings |
 | `CPI Inflation Case_Study.xlsx` | Excel workbook containing the analysis, calculations, and visualizations |
-| `Problem_Statement.pdf` | Original India CPI Inflation Case Study problem statement |
 
 ## Data Sources
 
